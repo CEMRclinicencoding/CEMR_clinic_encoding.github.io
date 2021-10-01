@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# 中文电子病历临床编码
 
-You can use the [editor on GitHub](https://github.com/CEMRclinicencoding/CEMR_clinic_encoding.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 目的
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 数据来源
 
-### Markdown
+## 建模过程
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 数据清洗
+### 分类标签生成
+### 特征矩阵生成
+### 模型训练
 
-```markdown
-Syntax highlighted code block
+## 生成预测
 
-# Header 1
-## Header 2
-### Header 3
+## 预测结果比较
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CEMRclinicencoding/CEMR_clinic_encoding.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 整体投票结果
+### 选择模型后投票结果
+### 直接使用最优模型
